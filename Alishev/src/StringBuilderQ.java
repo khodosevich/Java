@@ -26,8 +26,6 @@ public class StringBuilderQ {
         //printf
         System.out.printf("Your name is %s , your age is %d" , name , age);
 
-        
-
 
     }
 }
